@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Wu Yudong"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Wu Yudong"
+description              : &description "I am currently an 3rd-year undergraduate student at Wang Yanan Institute for Studies in Economics, Xiamen University(China)."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wu Yudong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am currently an 3rd-year undergraduate student at Wang Yanan Institute for Studies in Economics, Xiamen University(China)."
+  location         : "Xiamen, China"
+  employer         : "Xiamen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wuyudongecon@gmail.com" 
 
   # Academic websites
   academia         : # URL
