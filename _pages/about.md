@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wu Yudong"
+title: "Home page"
 author_profile: true
 redirect_from: 
   - /about/
