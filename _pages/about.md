@@ -12,9 +12,13 @@ I am currently an 3rd-year undergraduate student at Wang Yanan Institute for Stu
 Education Backgroud
 ======
 Sept 2022 - Jun 2026(Expected) : Xiamen University, Bachelor of Economics.
+
 Achievements & Awards:
+
 GPA: 3.81/4.00, Weighted Average Score: 91/100 
+
 AY 2023-24: National Scholarship, Ministry of Education (China)
+
 AY 2022-23: Merit Student Scholarship, Xiamen University.
 
 
