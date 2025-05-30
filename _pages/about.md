@@ -32,7 +32,7 @@ This reading group is held every Wednesday at D236, in which we present and shar
 
 My presentation:
 
-Atkin (2016) - The Caloric Costs of Culture, Evidence from Indian Migrants. American Economic Review. Slides are avaliable here.
+Atkin (2016) - The Caloric Costs of Culture, Evidence from Indian Migrants. American Economic Review. Slides are avaliable [here](https://github.com/wuyudong-econ/Files/blob/main/May%2028%20Presentation.pdf).
 
 
 Site-wide configuration
