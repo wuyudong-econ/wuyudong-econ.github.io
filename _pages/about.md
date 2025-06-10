@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an 3rd-year undergraduate student at Wang Yanan Institute for Studies in Economics, Xiamen University(China). You can find some details about me at this page.
+I am currently a 3rd-year undergraduate student at Wang Yanan Institute for Studies in Economics, Xiamen University(China). You can find some details about me at this page.
 
 Education Backgroud
 ======
