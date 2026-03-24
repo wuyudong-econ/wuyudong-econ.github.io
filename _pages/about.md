@@ -7,32 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 3rd-year undergraduate student at Wang Yanan Institute for Studies in Economics, Xiamen University(China). You can find some details about me at this page.
+I am a final-year undergraduate student at [the Wang Yanan Institute for Studies in Economics](https://wise.xmu.edu.cn/), Xiamen University. I will join NUS Department of Economics for my PhD studies from August 2026.
 
 Education Backgroud
 ======
 Sept 2022 - Jun 2026(Expected) : Xiamen University, Bachelor of Economics.
 
-Achievements & Awards:
-
-GPA: 3.81/4.00, Weighted Average Score: 91/100 
-
-AY 2023-24: National Scholarship, Ministry of Education (China)
-
-AY 2022-23: Merit Student Scholarship, Xiamen University.
-
-
-Activity Participation
+Awards and Achievements
 ======
-I participate in some academic seminars & activities held by School of Economics, WISE, Chow Institute, etc. You may find me in the following activities. I would also be happy if you could invite me to attend relevant activities.
 
-**Reading Group of Economic Research Institute, Xiamen University**
+From China Ministry of Education: National Scholarship (2024)
+From Xiamen University: Academic Excellence Scholarship (2023, 2025), Research Innovation Scholarship (2025), Anta Scholarship (2025), Qian Bohai Scholarship (2026)
+From National University of Singapore: Research Scholarship
 
-This reading group is held every Wednesday at D236, in which we present and share our views on Top 5 economic jounrals in turns.
-
-My presentation:
-
-Atkin (2016) - [The Caloric Costs of Culture: Evidence from Indian Migrants](https://www.aeaweb.org/articles?id=10.1257/aer.20140297). American Economic Review. Slides are avaliable [here](https://github.com/wuyudong-econ/Files/blob/main/May%2028%20Presentation.pdf).
 
 <!--
 Site-wide configuration
