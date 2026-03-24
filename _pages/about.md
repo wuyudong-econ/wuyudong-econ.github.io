@@ -13,6 +13,11 @@ Education Backgroud
 ======
 Sept 2022 - Jun 2026(Expected) : Xiamen University, Bachelor of Economics.
 
+Research Interests
+======
+Development Economics (especially Chinese Economy), Urban Economics
+
+
 Awards and Achievements
 ======
 
