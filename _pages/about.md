@@ -17,7 +17,9 @@ Awards and Achievements
 ======
 
 From China Ministry of Education: National Scholarship (2024)
+
 From Xiamen University: Academic Excellence Scholarship (2023, 2025), Research Innovation Scholarship (2025), Anta Scholarship (2025), Qian Bohai Scholarship (2026)
+
 From National University of Singapore: Research Scholarship
 
 
